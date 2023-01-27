@@ -3,3 +3,4 @@
 venv
 backend/venv
 
+backend/db.sqlite3
